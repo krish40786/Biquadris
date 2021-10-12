@@ -1,0 +1,1 @@
+heavy.o: heavy.cc

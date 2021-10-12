@@ -1,0 +1,8 @@
+updateGridSquares();
+
+int int_rows_cleared = rows_cleared();
+if (playerMoveEnds()) {}
+    while (rows_cleared() > 0) {
+        int_rows_cleared = rows_cleared();
+        for (int i = 0; i < int_rows_cleared)
+    }
